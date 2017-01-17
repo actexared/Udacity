@@ -1,2 +1,2 @@
-# Udacity-Notes
-Notes from Udacity's Intro to Programming course
+# Udacity-Projects
+Projects from Udacity's Intro to Programming course
